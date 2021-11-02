@@ -3,12 +3,12 @@ The Matlab function 'tsa' allow to compute the phase-average of a signal with va
 As a avid user of this Matlab function, I was frustrated not to find an equivalent with Python.
 
 ## Algorithms
-Time-domain method:
+Time-domain method (pyTSA_TimeDomain function):
 1. Divide the signal into segments corresponding to the different cycles
 2. Interpolate the signals in each segment on the same number of sample
 3. Compute the average of all the resampled segments
 
-Frequency-domain method:
+Frequency-domain method (py_TSA_fft function):
 1. Divide the signal into segments corresponding to the different cycles
 2. Compute the fft of each segment
 3. Truncate the results on each segment so that all fft have the same length as the one of the shortest cycle
