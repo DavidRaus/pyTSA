@@ -1,4 +1,4 @@
-The Matlab function 'tsa' allow to compute the phase-average of a signal with varying cycles length.
+The Matlab function 'tsa' allows to compute the phase-average of a signal with varying cycles length.
 
 As a avid user of this Matlab function, I was frustrated not to find an equivalent with Python.
 
