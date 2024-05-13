@@ -19,4 +19,3 @@ Frequency-domain method (py_TSA_fft function):
 Bechhoefer, Eric, and Michael Kingsley. "A Review of Time-Synchronous Average Algorithms." Proceedings of the Annual Conference of the Prognostics and Health Management Society, San Diego, CA, September-October, 2009.
 
 ## David Raus
-21/11/02
